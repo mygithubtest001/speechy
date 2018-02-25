@@ -1,6 +1,6 @@
 {
   "name": "speechy",
-  "app_id": "",
+  "app_id": "b09c48fb",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
